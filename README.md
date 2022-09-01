@@ -17,10 +17,15 @@
 
 - 📫 How to reach me **durgeshkumartiwari007@gmail.com**
 
+- 💰 I'm on Bug Bounty Platforms
+
+[![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23F26822.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/durgeshkt)
+[![HackerOne](https://img.shields.io/badge/hackerone-%23494649.svg?&style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/durgeshkt)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dur635hk7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dur635hk7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dkt7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dkt7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/durgeshkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dkt7" height="30" width="40" /></a>
 <a href="https://instagram.com/panditdurgesh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panditdurgesh007" height="30" width="40" /></a>
 </p>
 
