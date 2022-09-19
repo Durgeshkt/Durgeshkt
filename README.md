@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgeshkt</h1>
-<align="center"><a href="https://www.freepnglogos.com/pics/linux" title="Image from freepnglogos.com">  <img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200" alt="compiling the linux kernel ubuntu ultimatepeterm" /></a>
+<a href="https://www.freepnglogos.com/pics/linux" title="Image from freepnglogos.com">                                               <img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200"  /></a>
 <h3 align="center">I am a Durgeshkt is a Ethical Hacker, Penetration Tester, I am a part of Cyber Security domain from last 1 years and Currently a part of Cyber Security Group flag-predators.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshkt&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshkt" /> </p>
