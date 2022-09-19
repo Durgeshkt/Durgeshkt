@@ -19,6 +19,8 @@
 
 - 💰 I'm on Bug Bounty Platforms
 
+
+<a href="https://www.freepnglogos.com/pics/linux">Linux from freepnglogos.com</a>
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23F26822.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/durgeshkt)
 [![HackerOne](https://img.shields.io/badge/hackerone-%23494649.svg?&style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/durgeshkt)
 
