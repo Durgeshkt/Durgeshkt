@@ -8,11 +8,11 @@
 
 - 👨‍💻 I'm currently performing research in the field of Cybersecurity 
 
-- 🎓 I'm doing MCA from A.N College Patna Bihar
+- 🎓 I'm doing MCA 
 
 - 🌱 I'm on track for learning more about owasp top 10, reverse engineering and malware analysis
 
-- 💻 All of my projects are available at [https://durgeshkumar007.github.io/Portfolio/index.html](https://durgeshkumar007.github.io/Portfolio/index.html)
+- 💻 All of my projects are available at [http://durgeshkt.github.io/](http://durgeshkt.github.io/)
 
 - 📝 I regularly write articles on [https://article4hacker.blogspot.com/](https://article4hacker.blogspot.com/)
 
