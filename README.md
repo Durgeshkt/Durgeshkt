@@ -1,4 +1,4 @@
-<h1 align="center"👋 Hello folks! I'm Durgesh.</h1>
+<h1 align="center"👋 "Hello folks! I'm Durgesh."</h1>
 <p align="center"><img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200"</P>
 <h3 align="center">🚀 I’m a Penetration Tester at Aujas with over three years of experience in cybersecurity. My current focus is on Active Directory and web penetration testing, where I enjoy tackling complex challenges and continuously expanding my skills.</h3>
 
