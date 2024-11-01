@@ -1,4 +1,4 @@
-<h1 align="center"👋 "Hello folks! I'm Durgesh."</h1>
+<h1 align="center">👋 Hello folks! I'm Durgesh.</h1>
 <p align="center"><img src="https://www.freepnglogos.com/uploads/linux-png/compiling-the-linux-kernel-ubuntu-ultimatepeterm-31.png" width="200"</P>
 <h3 align="center">🚀 I’m a Penetration Tester at Aujas with over three years of experience in cybersecurity. My current focus is on Active Directory and web penetration testing, where I enjoy tackling complex challenges and continuously expanding my skills.</h3>
 
@@ -7,11 +7,8 @@
 <p align="left"> <a href="https://twitter.com/dur635hk7" target="blank"><img src="https://img.shields.io/twitter/follow/dur635hk7?logo=twitter&style=for-the-badge" alt="dur635hk7" /></a> </p>
 
 - 👨‍💻 I'm currently performing research in the field of Cybersecurity 
-
 - 💡 Future Goals: I aspire to become a recognized cybersecurity expert and am eager to dive into malware analysis and social engineering in the coming years.
-- 
 -  🔐 I’m passionate about the field and committed to staying ahead of evolving security threats. Let’s connect and collaborate on exciting cybersecurity projects!
--  
 - 💻 All of my projects are available at [http://durgeshkt.github.io/](http://durgeshkt.github.io/)
 
 - 💰 I'm on Bug Bounty Platforms
